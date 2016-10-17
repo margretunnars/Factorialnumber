@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{24F043C5-99B1-4A50-A78D-CA6B3023E0F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factorialnumber/Program.cs">
+    <Files>
+      <File FileName="Factorialnumber/Program.cs" Line="24" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Factorialnumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
